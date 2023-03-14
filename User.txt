@@ -1,0 +1,4 @@
+Tom|luck|Admin
+Monet|funny|user
+Monet|pretty|user
+user|none|user
